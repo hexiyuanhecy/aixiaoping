@@ -20,21 +20,18 @@ export default {
 
 <style lang="stylus" scoped>
 @import '~styles/varibles.styl'
-
 .header
     display: flex
     line-height: .86rem
     background: $bgColor
     color: #000
+    height: .86rem
     .header-left
       width: .64rem
       float: left
-      .back-icon
-        text-align: center
-        font-size: .4rem
     .header-input
       flex: 1
-      height: .64rem
+      height: .64remy
       line-height: .64rem
       margin-top: .12rem
       margin-left: .2rem
