@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import HomeHeader from './components/header/Header'
+import HomeHeader from './components/Header'
 import HomeIcons from './components/Icons'
 export default {
   name: 'Home',
