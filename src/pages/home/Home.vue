@@ -7,10 +7,7 @@
 
 <script>
 import HomeHeader from './components/Header'
-<<<<<<< HEAD
-=======
 import HomeIcons from './components/Icons'
->>>>>>> origin/index-icons
 export default {
   name: 'Home',
   components:{

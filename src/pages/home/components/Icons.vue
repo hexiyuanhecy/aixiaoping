@@ -12,13 +12,13 @@ export default {
 
 <style lang='stylus' scoped>
 .icons
-  width:100%
-  overflow:hidden
-  height 0
-  padding-bottom :50%
-  background:#ccc
+  width: 100%
+  overflow: hidden
+  height: 0
+  padding-bottom: 50%
+  background: #ccc
   .icon
-    float:left
+    float: left
     width: 25%
     padding-bottom:25%
     background: red
